@@ -1,6 +1,5 @@
 function noAdGoToScene() {
 
-
     var GameConfig = __require("GameConfig");
     console.log("IndexMainMangerMaing", GameConfig.launchScene, GameConfig.Bros, GameConfig.caS);
 
